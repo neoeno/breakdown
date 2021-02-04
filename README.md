@@ -7,7 +7,8 @@ in circles.
 They are intended for use by learners who have encountered obstacles learning to
 code, and with direct coach supervision.
 
-Each exercise has its own rules that you can read in the README.
+Each exercise has its own instructions that you can find in the README or spec
+file.
 
 ## General rules
 
