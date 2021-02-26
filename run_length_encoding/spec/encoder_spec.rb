@@ -12,7 +12,7 @@ RSpec.describe Encoder do
   #
   # INSTRUCTIONS
   # 1. Uncomment the first test.
-  # 2. Make it pass. Don't edit any of the test code. Ever! Only takeaway.rb
+  # 2. Make it pass. Don't edit any of the test code. Ever! Only encoder.rb
   # 3. When it passes, do a git commit.
   # 4. Uncomment the next test, make it pass, commit, etc.
   #
