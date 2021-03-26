@@ -127,11 +127,13 @@ RSpec.describe Encoder do
   # it "gets the letters after the first run" do
   #   encoder = Encoder.new
   #   result_1 = encoder.get_after_first_run("aaabba")
-  #   result_2 = encoder.get_after_first_run("bba")
-  #   result_3 = encoder.get_after_first_run("a")
+  #   result_2 = encoder.get_after_first_run("aabbaa")
+  #   result_3 = encoder.get_after_first_run("bba")
+  #   result_4 = encoder.get_after_first_run("a")
   #   expect(result_1).to eq "bba"
-  #   expect(result_2).to eq "a"
-  #   expect(result_3).to eq ""
+  #   expect(result_2).to eq "bbaa"
+  #   expect(result_3).to eq "a"
+  #   expect(result_4).to eq ""
   # end
 
   # INSTRUCTION: Do a commit before uncommenting the next test.
